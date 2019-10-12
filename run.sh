@@ -1,2 +1,2 @@
-FLASK_APP=Biodiversity/app_bbutton.py flask run
+FLASK_APP=Belly_Button_Biodiversity/app.py flask run
 
